@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+}
+#main, #canvas{
+    border: 2px solid black;
+}
+#main-1, #canvas-1{
+    border: 2px solid black;
+}
+#canvas{
+    width: 100%;
+    margin: auto;
+    height: auto;
+    padding: 8px;
+}
+.headings{
+    margin: 3px;
+    padding-left: 5px;
+}
+#canvas-1{
+    width: 100%;
+    margin: auto;
+    height: auto;
+    padding: 8px;
+}
+.text-center {
+    text-align: center;
+}
+/* #trans-area{
+    border: 2px solid black;
+    height: 530px;
+    width: 500px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 10px;
+} */
